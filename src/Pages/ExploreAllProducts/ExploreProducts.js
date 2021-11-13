@@ -42,26 +42,26 @@ const exploreProducts = [
     },
     {
         name: 'Diamond Bracelet',
-        description: 'Green stone sterling silver vintage ring for men diamond ring. Green stones sterling silver vintage ring, small white gold plated fine jewelry.',
-        price: '5000',
+        description: 'The charm of diamond bracelet designs is that they are so versatile that they can be worn to complement almost any occasion or outfit.',
+        price: '50000',
         img: 'https://i.ibb.co/ZS9Jm5P/diamondbracelet.png'
     },
     {
         name: 'Diamond Ring',
-        description: 'Green stone sterling silver vintage ring for men diamond ring. Green stones sterling silver vintage ring, small white gold plated fine jewelry.',
-        price: '5000',
+        description: 'Usually thought as a symbol of engagement, diamond rings are suitable for several occasions and are ideal to celebrate any life milestone.',
+        price: '45000',
         img: 'https://i.ibb.co/SXRB8BC/diamondring.png'
     },
     {
         name: 'Diamond Necklace',
-        description: 'Green stone sterling silver vintage ring for men diamond ring. Green stones sterling silver vintage ring, small white gold plated fine jewelry.',
-        price: '5000',
+        description: 'Diamond Necklace for centuries has been the most precious item man has discovered. Diamonds in every form are attractive, alluring and they steal a woman’s heart instantly, diamond necklaces are one among this league. ',
+        price: '150000',
         img: 'https://i.ibb.co/1r59J3r/diamondneclace.png'
     },
     {
         name: 'Silver Earring',
-        description: 'Green stone sterling silver vintage ring for men diamond ring. Green stones sterling silver vintage ring, small white gold plated fine jewelry.',
-        price: '5000',
+        description: 'Silver by Mail offers a wide selection of glamorous silver earrings for women. All of the earrings in our collection will surely make you look elegant.',
+        price: '2000',
         img: 'https://i.ibb.co/BZpKSWJ/silverearrings.png'
     }
 ]
